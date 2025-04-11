@@ -28,9 +28,9 @@ If you want a specific path for the .csv instead I suggest something like: <br>
  <br>
 Note: this requires "os/user" to be imported too. <br>
  <br> 
-3. .exe opens the Windows CLI, loads the .csv and performs regex search of column 1 for the <br>
+2. .exe opens the Windows CLI, loads the .csv and performs regex search of column 1 for the <br>
 CLI input. Search can be performed as often as desired (eg. if there's a typo, etc). <br>
-4. Upon selecting a result (max. of 5 results displayed) the corresponding text from column 2 <br>
+3. Upon selecting a result (max. of 5 results displayed) the corresponding text from column 2 <br>
 is copied to clipboard and the CLI closes. <br>
  <br>
 Aside from the text being copied nothing is stored, nothing is executed.
