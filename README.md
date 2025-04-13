@@ -2,8 +2,8 @@
 
 I AM NOT A PROGRAMMER <br>
 I do not code for a living or as a hobby and this tool (barely even a script) was made with <br>
-heavy input from ChatGPT (free). Even if I defined what each section was meant to do, tested, <br>
-checked functionality with success/fail statements, etc., I do not anticipate this being <br>
+heavy input from ChatGPT (free). 
+I do not anticipate this being <br>
 relevant to other people and have no intention of adding new functionalities or somesuch. <br>
  <br>
 This is a product of SPITE <br>
@@ -16,6 +16,7 @@ The whole purpose was to have the effect of a text expander without any of the w
 text expanders come with. <br>
  <br>
 BEHAVIOUR: <br>
+ <br>
 1. In this version the .exe and .csv must be in the same folder, but folder location doesn't <br>
 matter. I like to stick a shortcut on my desktop and add a hotkey combination in properties. <br>
 If you want a specific path for the .csv instead I suggest something like: <br>
